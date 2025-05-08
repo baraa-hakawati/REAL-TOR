@@ -1,0 +1,55 @@
+.information1{
+    width: 400px;
+    height: 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    padding-left: 10px;
+    text-align: left;
+    background-color: steelblue;
+    
+}
+.information2{
+      width: 400px;
+    height: 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    padding-left: 10px;
+    text-align: left;
+    background-color: #28a745;
+    color: white;
+}
+.dd{
+    
+    margin-left: 30px;
+}
+.cc{
+    margin-left: -15px;
+}
+.section_in_profile_payer{
+    margin-top: 100px;
+}
+.label_info{
+    margin-top: 10px;
+}
+.information{
+    color: white;
+}
+.snippet{
+    
+    margin-top: 50px;
+}
+.tab-content{
+    margin-top: 50px;
+}
+
+
+.Edit_info{
+    margin-top: 5px;   
+    height: 40px;
+    font-size: 15px;
+}
+
+.static{
+    width: 120px;
+    height: 120px;
+}
