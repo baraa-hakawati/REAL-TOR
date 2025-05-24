@@ -88,7 +88,25 @@ Traditional real estate transactions in Palestine are plagued by:
 
 ## 📷 Snapshots
 
-*(Screenshots and UI images should be placed in a `/screenshots` folder and embedded here)*
+- **Login Page**
+  
+![Login Page](snapshots/Snap1.png)
+
+- **Registration Page**
+  
+![Registration Page](snapshots/Snap2.png)
+
+- **Offering Page**
+  
+![Offering Page](snapshots/Snap3.png)
+
+- **Searching Panel**
+  
+![Searching Panel](snapshots/Snap4.png)
+
+- **Profile Page**
+  
+![Profile Page](snapshots/Snap5.png)
 
 ---
 
